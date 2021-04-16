@@ -11,7 +11,7 @@
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
 exports = ___CSS_LOADER_API_IMPORT___(true);
 // Module
-exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\nhtml {\n  margin: 0;\n}\nbody {\n  margin: 0;\n}", "",{"version":3,"sources":["C:\\My-Projects\\HappyDevPortfolio/src\\styles.scss","styles.scss"],"names":[],"mappings":"AAAA,8EAAA;AACA;EACE,SAAA;ACCF;ADEA;EACE,SAAA;ACCF","file":"styles.scss","sourcesContent":["/* You can add global styles to this file, and also import other style files */\nhtml {\n  margin: 0;\n}\n\nbody {\n  margin: 0;\n}\n","/* You can add global styles to this file, and also import other style files */\nhtml {\n  margin: 0;\n}\n\nbody {\n  margin: 0;\n}"]}]);
+exports.push([module.i, "/* You can add global styles to this file, and also import other style files */\nhtml {\n  margin: 0;\n}\nbody {\n  margin: 0;\n}", "",{"version":3,"sources":["C:\\My-Projects\\Test/src\\styles.scss","styles.scss"],"names":[],"mappings":"AAAA,8EAAA;AACA;EACE,SAAA;ACCF;ADEA;EACE,SAAA;ACCF","file":"styles.scss","sourcesContent":["/* You can add global styles to this file, and also import other style files */\r\nhtml {\r\n  margin: 0;\r\n}\r\n\r\nbody {\r\n  margin: 0;\r\n}\r\n","/* You can add global styles to this file, and also import other style files */\nhtml {\n  margin: 0;\n}\n\nbody {\n  margin: 0;\n}"]}]);
 // Exports
 module.exports = exports;
 
@@ -441,7 +441,7 @@ module.exports = exported;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\My-Projects\HappyDevPortfolio\src\styles.scss */"./src/styles.scss");
+module.exports = __webpack_require__(/*! C:\My-Projects\Test\src\styles.scss */"./src/styles.scss");
 
 
 /***/ })
